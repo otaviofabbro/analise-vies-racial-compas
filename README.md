@@ -39,3 +39,7 @@ A aplicação de técnicas de mitigação de viés demonstrou que é possível i
 3. Abra o arquivo Projeto_COMPAS.ipynb em um ambiente Jupyter (Jupyter Notebook, JupyterLab, VS Code ou Google Colab).
 
 4. Execute as células sequencialmente. Nota: O notebook já realiza o download automático da base de dados original da ProPublica, não sendo necessário baixar arquivos CSV manualmente.
+
+## 🛢️ Fonte original dos dados:
+
+https://github.com/propublica/compas-analysis
