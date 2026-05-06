@@ -270,8 +270,8 @@ O modelo XGBoost não-mitigado replicou o padrão identificado pela ProPublica:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/compas-fairness-audit.git
-cd compas-fairness-audit
+git clone https://github.com/otaviofabbro/analise-vies-racial-compas.git
+cd analise-vies-racial-compas
 ```
 
 ### 2. Crie e ative um ambiente virtual
@@ -325,6 +325,7 @@ jupyter notebook auditoria_mitigação_vies_racial_COMPAS.ipynb
 
 ## 👤 Autor
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -340,6 +341,8 @@ jupyter notebook auditoria_mitigação_vies_racial_COMPAS.ipynb
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
