@@ -332,10 +332,10 @@ jupyter notebook auditoria_mitigação_vies_racial_COMPAS.ipynb
       <b>Otávio Fabbro Machado</b><br/>
       MBA em Ciência de Dados — ICMC-USP<br/>
       <i>Orientador: Prof. Rodrigo Colnago Contreras</i><br/><br/>
-      <a href="https://www.linkedin.com/in/seu-linkedin">
+      <a href="https://www.linkedin.com/in/otaviofabbrodata/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="https://github.com/seu-usuario">
+      <a href="https://github.com/otaviofabbro">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
