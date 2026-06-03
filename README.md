@@ -71,25 +71,7 @@ A Northpointe (criadora do COMPAS) respondeu que o algoritmo é *calibrado* — 
 
 O projeto segue rigorosamente o **CRISP-DM** (*Cross Industry Standard Process for Data Mining*), evidenciando cada fase no notebook:
 
-```mermaid
-flowchart LR
-    B1["📋 1. Business\nUnderstanding"]
-    B2["🔍 2. Data\nUnderstanding"]
-    B3["🔧 3. Data\nPreparation"]
-    B4["🤖 4. Modeling"]
-    B5["📊 5. Evaluation"]
-    B6["🚀 6. Deployment"]
-
-    B1 --> B2 --> B3 --> B4 --> B5 --> B6 --> B1
-    B5 -. "iteração" .-> B4
-
-    style B1 fill:#1f6feb,stroke:#388bfd,color:#fff
-    style B2 fill:#1a7f37,stroke:#2ea043,color:#fff
-    style B3 fill:#9e6a03,stroke:#d29922,color:#fff
-    style B4 fill:#6e40c9,stroke:#ab57d6,color:#fff
-    style B5 fill:#b62324,stroke:#da3633,color:#fff
-    style B6 fill:#1b6e6e,stroke:#2ec4c4,color:#fff
-```
+[CRISP-DM](./assets/crisp_dm_diagram.png)
 
 | Fase | Seção do Notebook | Descrição |
 |:---|:---|:---|
