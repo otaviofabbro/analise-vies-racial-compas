@@ -102,16 +102,18 @@ O projeto segue rigorosamente o **CRISP-DM** (*Cross Industry Standard Process f
 ```
 analise-vies-racial-compas/
 │
-├── 📓 auditoria_mitigação_vies_racial_COMPAS.ipynb   # Notebook principal
+├── 📁 notebooks
+│    └──📓 auditoria_mitigação_vies_racial_COMPAS.ipynb   # Notebook principal
 │
-├── 📊 figures/
-│   ├── fig01.png   # Distribuição dos escores de risco por raça
-│   ├── fig02.png   # Taxas de reincidência por grupo racial
-│   ├── fig03.png   # Distribuição de antecedentes criminais (boxplot)
-│   ├── fig04.png   # SHAP Beeswarm — importância global das features
-│   ├── fig05.png   # SHAP Dependence Plot — interação raça × antecedentes
-│   ├── fig06.png   # SHAP Bar Plot — ranking de importância
-│   └── fig07.png   # Análise comparativa de viés por grupo racial
+│
+├── 📁 figures
+│    ├── fig01.png   # Distribuição dos escores de risco por raça
+│    ├── fig02.png   # Taxas de reincidência por grupo racial
+│    ├── fig03.png   # Distribuição de antecedentes criminais (boxplot)
+│    ├── fig04.png   # SHAP Beeswarm — importância global das features
+│    ├── fig05.png   # SHAP Dependence Plot — interação raça × antecedentes
+│    ├── fig06.png   # SHAP Bar Plot — ranking de importância
+│    └── fig07.png   # Análise comparativa de viés por grupo racial
 │
 └── 📄 README.md
 ```
