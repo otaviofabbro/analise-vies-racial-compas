@@ -71,7 +71,7 @@ A Northpointe (criadora do COMPAS) respondeu que o algoritmo é *calibrado* — 
 
 O projeto segue rigorosamente o **CRISP-DM** (*Cross Industry Standard Process for Data Mining*), evidenciando cada fase no notebook:
 
-[CRISP-DM](./assets/crisp_dm_diagram.png)
+![CRISP-DM](./assets/crisp_dm_diagram.png)
 
 | Fase | Seção do Notebook | Descrição |
 |:---|:---|:---|
