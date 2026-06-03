@@ -75,10 +75,10 @@ O projeto segue rigorosamente o **CRISP-DM** (*Cross Industry Standard Process f
 ┌─────────────────────────────────────────────────────────────────┐
 │                          CRISP-DM                               │
 │                                                                 │
-│   [1. Business]──▶[2. Data Und.]──▶[3. Data Prep.]             │
+│   [1. Business]──▶[2. Data Und.]──▶[3. Data Prep.]              │
 │        ▲                                    │                   │
 │        │                                    ▼                   │
-│   [6. Deployment]◀──[5. Evaluation]◀──[4. Modeling]            │
+│   [6. Deployment]◀──[5. Evaluation]◀──[4. Modeling]             │
 │                           │                 ▲                   │
 │                           └── iteração ─────┘                   │
 └─────────────────────────────────────────────────────────────────┘
